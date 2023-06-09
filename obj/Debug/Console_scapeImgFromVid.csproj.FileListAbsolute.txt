@@ -1,0 +1,9 @@
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\bin\Debug\Console_scapeImgFromVid.exe.config
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\bin\Debug\Console_scapeImgFromVid.exe
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\bin\Debug\Console_scapeImgFromVid.pdb
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\bin\Debug\MediaToolkit.dll
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\obj\Debug\Console_scapeImgFromVid.csprojAssemblyReference.cache
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\obj\Debug\Console_scapeImgFromVid.csproj.CoreCompileInputs.cache
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\obj\Debug\Console_scapeImgFromVid.csproj.CopyComplete
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\obj\Debug\Console_scapeImgFromVid.exe
+C:\Users\4042\source\repos\Console_scapeImgFromVid\Console_scapeImgFromVid\obj\Debug\Console_scapeImgFromVid.pdb
